@@ -74,14 +74,17 @@ Figure&nbsp;2: Comparing the annual breakup rate for first marriages with and wi
 </div>
 <p>Interestingly, the women who cohabitate before marriage reduce the risk of divorce in the first year of marriage (Figure&nbsp;2). However, after the first year of marriage, the likelihood of divorce becomes much higher than for those who did not cohabitate before marriage (Figure&nbsp;2).</p>
 <p>Living together before marriage may provide short-term benefits, but could be associated with a higher risk of future marital instability. So… when your boyfriend/girlfriend is asking you to move in, think again!</p>
+<p><span style="display:none"><span class="citation" data-cites="rosenfeld2019cohabitation">(Rosenfeld and Roesler 2019)</span></span></p>
+
+
+
 </section>
-<section id="references" class="level1">
-<h1>References</h1>
 
-
-</section>
-
- ]]></description>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-rosenfeld2019cohabitation" class="csl-entry">
+Rosenfeld, Michael J, and Katharina Roesler. 2019. <span>“Cohabitation Experience and Cohabitation’s Association with Marital Dissolution.”</span> <em>Journal of Marriage and Family</em> 81 (1): 42–58. <a href="https://doi.org/10.1111/jomf.12530">https://doi.org/10.1111/jomf.12530</a>.
+</div>
+</div></section></div> ]]></description>
   <category>Data Science</category>
   <category>Marriage</category>
   <category>Premarital Cohabitation</category>

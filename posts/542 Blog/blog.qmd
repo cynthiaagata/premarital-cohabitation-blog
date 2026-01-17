@@ -46,4 +46,5 @@ Interestingly, the women who cohabitate before marriage reduce the risk of divor
 
 Living together before marriage may provide short-term benefits, but could be associated with a higher risk of future marital instability. So... when your boyfriend/girlfriend is asking you to move in, think again!
 
-# References
+
+<span style="display:none">[@rosenfeld2019cohabitation]</span>
