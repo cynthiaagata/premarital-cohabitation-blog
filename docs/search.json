@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/542 Blog/blog.html",
+    "href": "posts/542 Blog/blog.html",
+    "title": "Maybe… living in together is not as good as you think it is..",
+    "section": "",
+    "text": "So, your boyfriend/girlfriend asks you to move in together.. Have you heard that the data shows that premarital cohabitation causes more harm than good?\nThroughout history, marriage has played a crucial role in human civilization. Marriage structures families and ensures the continuity from generation to generation. The impact of marriage is larger than you think. Whether or not a married couple is having a healthy, fulfilling marriage affects not only themselves, but also their kids, their families, their friends, their colleagues, and even us. Even unmarried people are still affected by their parents’ marriage, friends’ marriage and many more! When marriage and families are stable and flourishing, people can engage fully and thrive in education, work, and community. Therefore, marriage influences how they contribute to the world’s socioeconomic growth and social order."
+  },
+  {
+    "objectID": "posts/542 Blog/blog.html#cohabitation---why-do-people-do-it",
+    "href": "posts/542 Blog/blog.html#cohabitation---why-do-people-do-it",
+    "title": "Maybe… living in together is not as good as you think it is..",
+    "section": "Cohabitation - why do people do it?",
+    "text": "Cohabitation - why do people do it?\nCohabitation before marriage has become more common throughout the world (Figure 1), especially in the Western world. Some people want a compatibility test as they say, “Well, marriage is a decision that will affect your whole life. I should live together with my boyfriend/girlfriend to test it out before making an important decision. It is like doing a test drive before buying a new car.” Some people like the practicality because you share rent and expenses together, just like a married couple would do. Some people are just comfortable with living together without marriage vows. And there are many other reasons depending on the couple.\n\n\n\n\n\n\nFigure 1: The rising of premarital cohabitation from 10% of first marriages in 1970 to more than 60% of first marriages after 2000.\n\n\n\nAt the same time, divorce rates are increasing, and many people do not want to get married anymore. Some might think that cohabitation is a better option to avoid getting divorced and the commitment of a lifetime. But does premarital cohabitation really help reduce the chance of getting divorced later? Or is cohabitation unnecessary?"
+  },
+  {
+    "objectID": "posts/542 Blog/blog.html#what-does-the-data-say",
+    "href": "posts/542 Blog/blog.html#what-does-the-data-say",
+    "title": "Maybe… living in together is not as good as you think it is..",
+    "section": "What does the data say?",
+    "text": "What does the data say?\nMany researchers have shown that couples who live together before marriage are more likely to divorce later in life. There are two theories of the association between premarital cohabitation and divorce. The first one is selection effects. This implies that people who chose to live together before marriage already differed from people who did not, even before cohabiting. They tend to be more liberal, less religious, and more accepting of ending a relationship when it becomes unsatisfactory. In this perspective, people who never cohabited before marriage would never see divorce as an option, even when they do feel less satisfied with their marriage. The second theory is called the “cohabitation experience of impermanence”. Cohabitation is seen as a casual, informal relationship that is impermanent and easily dissolved. The experience of cohabitation influences couples in later marriage to accept the idea of divorce compared to individuals who did not cohabitate."
+  },
+  {
+    "objectID": "posts/542 Blog/blog.html#collecting-the-data",
+    "href": "posts/542 Blog/blog.html#collecting-the-data",
+    "title": "Maybe… living in together is not as good as you think it is..",
+    "section": "Collecting the Data",
+    "text": "Collecting the Data\nFirstly, let’s look into where our data is coming from before diving into any of the data analysis. We collected data from the 1988, 1995, 2002, 2006–2010, 2011–2013, and 2013–2015 (6 waves) surveys of the National Survey of Family Growth (NSFG), consisting of 24,888 respondents. The survey respondents were all women, varied by age from 15 to 44 years (because no male respondents were added until the 2002 survey by NSFG). Here, we are focusing on the first marriages since the duration of the later marriages were much shorter. All recorded marriages in this survey were heterosexual marriages (between a man and a woman). The NSFG survey is retrospective, meaning participants report their past events in one interview, so no follow-ups were needed. However, this limits the data collected on younger respondents since they may not be old enough to have experience."
+  },
+  {
+    "objectID": "posts/542 Blog/blog.html#data-analysis",
+    "href": "posts/542 Blog/blog.html#data-analysis",
+    "title": "Maybe… living in together is not as good as you think it is..",
+    "section": "Data Analysis",
+    "text": "Data Analysis\nThe analysis focuses on the trends between premarital cohabitation and marital dissolution (could be divorce or separation). For analyzing the data, we are using discrete time-event history logistic regression models with the NFSG data in a couple-year format. Discrete time-event history means that the couples are tracked year by year in discrete intervals (e.g. year 1, year 2) instead of continuously, and the likelihood of marital dissolution is estimated. This approach allows us to capture not only whether marital dissolution happens but also when it happens. Logistic regression is a linear model that we can use for a binary outcome (e.g. yes/no, True/False). In our case, the outcome is whether the individual ends up in marital dissolution or not (the dependent variable/binary outcome).\nControl variables were used in the model, including the respondent’s race, education, mother’s education, age at marriage, whether or not they grew up in an intact two-parent family, marital duration, and presence of minor children. The researchers use a cross-wave harmonized analytic weight for the descriptive statistics. This means that the weights used in the logistic regression model were rescaled to have an average of one in each wave. As a result, the data can be comparable across all waves. The statistical analysis was assessed using 5% level of significance."
+  },
+  {
+    "objectID": "posts/542 Blog/blog.html#results-and-takeaway",
+    "href": "posts/542 Blog/blog.html#results-and-takeaway",
+    "title": "Maybe… living in together is not as good as you think it is..",
+    "section": "Results and Takeaway",
+    "text": "Results and Takeaway\nThe models showed that there is a significant association between premarital cohabitation and a higher likelihood of marital dissolution. The women who lived together before marriage were 37% times more likely to divorce/separate compared to women who did not cohabitate. After holding the control variables, the increased risk drops slightly to 31%, but remains significant. The researchers also found that this trend has not weakened over time. Even when cohabitation becomes more common, its association with a higher likelihood of future divorce remained stable.\n\n\n\n\n\n\nFigure 2: Comparing the annual breakup rate for first marriages with and without premarital cohabitation.\n\n\n\nInterestingly, the women who cohabitate before marriage reduce the risk of divorce in the first year of marriage (Figure 2). However, after the first year of marriage, the likelihood of divorce becomes much higher than for those who did not cohabitate before marriage (Figure 2).\nLiving together before marriage may provide short-term benefits, but could be associated with a higher risk of future marital instability. So… when your boyfriend/girlfriend is asking you to move in, think again!\n(Rosenfeld and Roesler 2019)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "542 Blog",
+    "section": "",
+    "text": "Maybe… living in together is not as good as you think it is..\n\n\n\nData Science\n\nMarriage\n\nPremarital Cohabitation\n\n\n\n\n\n\n\n\n\nJan 17, 2026\n\n\nCynthia Agata Limantono\n\n\n\n\n\nNo matching items"
+  }
+]
